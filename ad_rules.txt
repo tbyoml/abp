@@ -1,0 +1,29 @@
+[Adblock Plus 3.8]
+! Version: 202005190001
+! Author: SR
+shang.qq.com^
+tencent://roupwpa^
+google-analytics.com^
+qm.qq.com^
+###fadeinbox
+##.dialog-guide-download win-download
+blog.csdn.net###layerd
+37.com###hdDialog
+huya.com###J_spbg
+huya.com##.diy-activity-icon
+huya.com###player-gift-wrap
+huya.com###room-footer
+huya.com##.diy-comps-wrap
+huya.com###J_roomSideHd
+douyu.com###js-header+div
+douyu.com###js-header+div+div+div
+douyu.com###js-header+div+div+div+div
+douyu.com###js-header+div+div+div+div+div
+douyu.com###js-header+div+div+div+div+div+div
+douyu.com###js-room-activity
+douyu.com##.Bottom
+douyu.com##.BarrageBanner
+douyu.com##.TreasureWrap
+douyu.com##.PlayerToolbar-Content
+douyu.com##.PcDiversion
+huya.com###J_listAdx
